@@ -1,9 +1,9 @@
-DESCRIPTION
+Description
 ===========
 
 A Python script that pops up notification of top news.
 
-REQUIREMENTS
+Requirements
 ============
 
 This script has been developed in Python 3.8, so you'll need python3.
@@ -17,7 +17,7 @@ sudo pip3 install -r requirements.txt
 
 This will find and install the needed packages
 
-USAGE
+Usage
 =====
 
 
