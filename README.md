@@ -1,7 +1,5 @@
 # News Notifier
 
-Description
-===========
 
 A Python script that pops up notification of top news according to the interval (in seconds) you specified.
 
