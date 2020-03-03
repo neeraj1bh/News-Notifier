@@ -38,5 +38,5 @@ if __name__ == '__main__':
         set_interval = int(input("Please enter the interval (in seconds) of news notification: "))
         parse_feed(set_interval)
     except Exception:
-        print("There's an Error Check your Code \n")
+        print('\033[91m'+"There's an Error Check your Code \n"+'\033[0m')
         raise
