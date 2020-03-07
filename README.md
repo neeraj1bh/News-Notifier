@@ -1,7 +1,10 @@
 # News Notifier
 
 
-A Python script that pops up notification of top news according to the interval (in seconds) you specified.
+A Python application that scrapes the RSS Feeds of a website and
+pops up notification of top news forthe day according to the interval (in
+seconds) you specified.
+
 
 Requirements
 ============
