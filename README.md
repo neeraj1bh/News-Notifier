@@ -25,3 +25,4 @@ Usage
 
 After installing all the requirements run latest_news.py and then enter the interval (in seconds) of news notification.
 
+![](https://github.com/neeraj1bh/News-Notifier/blob/master/Screenshot.png)
